@@ -8,3 +8,5 @@ tmp/
 src/**/*.js
 src/popup/tw.css
 dist.zip
+.direnv/*
+*.zip
