@@ -7,6 +7,12 @@
 
 # Better Cam Moodle
 
+## Installation
+
+Due to Firefox Policy, the addon is not able to be listed publicly on the firefox store, but can be installed through the following link:
+
+- [https://addons.mozilla.org/firefox/downloads/file/4411599/better_cam_moodle-1.0.2.0.xpi](https://addons.mozilla.org/firefox/downloads/file/4411599/better_cam_moodle-1.0.2.0.xpi)
+
 ## Description
 
 Since the introduction of Moodle 4.0, the UI for moodle is not as good as it used to be. There are
